@@ -59,7 +59,7 @@ pip install opencv-python numpy scipy dynamixel-sdk
 
 🚀 Getting Started
 
-1) Calibrate the Camera
+1) Calibrate the Camera (Project used a Logitech camera)
 2) Save your calibration data to calibration.npz.
 
 3) Launch the System - In separate terminals, run:
