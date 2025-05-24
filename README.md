@@ -9,7 +9,7 @@ A ROS 2-based system for controlling a 2-DOF robotic arm using camera-guided ArU
 
 ## 🛠 Features
 
-- **Camera-based Marker Tracking**: Uses OpenCV and ArUco to detect and localise targets.
+  - **Camera-based Marker Tracking**: Uses OpenCV and AprilTags to detect and localise targets.
 - **Real-time Path Planning**: Dynamically generates collision-free paths to target markers using an occupancy grid and Dijkstra’s algorithm.
 - **Inverse Kinematics Controller**: Smoothly tracks waypoints with DLS-based IK for a 2-link arm.
 - **Motor Hardware Interface**: Communicates with Dynamixel motors for joint control and gripper operation.
